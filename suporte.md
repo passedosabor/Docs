@@ -13,7 +13,7 @@ Se você tem dúvidas, sugestões ou problemas com o aplicativo **Passe do Sabor
 ### Canais de Atendimento
 
 **E-mail:** passedosabor@gmail.com
-**WhatsApp:** [(43) 99977-9572](https://wa.me/5543999779572)
+**WhatsApp:** [(43) 98406-0555](https://wa.me/5543984060555)
 
 Horário de atendimento: segunda a sexta, das 9h às 18h.
 Respondemos em até **2 dias úteis**.
@@ -67,4 +67,4 @@ Inscrição Municipal: nº 69.786 — Arapongas/PR
 Rua Quetzal, nº 206, Apt 45, Bloco 02, Vila Bernardes
 CEP 86.705-062 — Arapongas/PR, Brasil
 **E-mail:** passedosabor@gmail.com
-**WhatsApp:** (43) 99977-9572
+**WhatsApp:** (43) 98406-0555
