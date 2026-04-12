@@ -82,7 +82,7 @@ Rua Quetzal, nº 206, Apt 45, Bloco 02, Vila Bernardes
 CEP 86.705-062 — Arapongas/PR, Brasil
 
 **E-mail:** passedosabor@gmail.com
-**WhatsApp:** (43) 99977-9572
+**WhatsApp:** (43) 98406-0555
 
 ---
 
