@@ -31,7 +31,7 @@ Aqui você encontra a documentação atualizada que rege o uso do nosso aplicati
 Se precisar falar conosco, utilize os canais abaixo (atendimento de segunda a sexta, das 9h às 18h):
 
 * **E-mail:** [passedosabor@gmail.com](mailto:passedosabor@gmail.com)
-* **WhatsApp:** [(43) 99977-9572](https://wa.me/5543999779572)
+* **WhatsApp:** [(43) 98406-0555](https://wa.me/5543984060555)
 
 ---
 *Última atualização geral: 12 de abril de 2026*
