@@ -134,9 +134,9 @@ Alguns dados podem ser processados por servidores do Google (Firebase) e da Reve
 
 Nos termos do Art. 41 da LGPD, informamos os dados do Encarregado pelo Tratamento de Dados Pessoais:
 
-**Nome:** Guilherme Cazelotto Barbosa
+**Nome:** Guilherme Cazelotto Barbosa | Caio Cesar de Oliveira
 **E-mail:** passedosabor@gmail.com
-**Telefone/WhatsApp:** (43) 99977-9572
+**Telefone/WhatsApp:** (43) 8406-0555
 
 O Encarregado é o responsável por aceitar reclamações e comunicações dos titulares de dados, prestar esclarecimentos à Autoridade Nacional de Proteção de Dados (ANPD) e orientar os colaboradores da Empresa sobre as práticas de proteção de dados pessoais.
 
