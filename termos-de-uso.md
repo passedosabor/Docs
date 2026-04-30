@@ -29,7 +29,7 @@ Ao criar uma conta e utilizar o aplicativo **Passe do Sabor**, o usuário declar
 
 ## 3. Descrição do Serviço
 
-O **Passe do Sabor** é um clube de benefícios gastronômicos por assinatura que oferece cupons no modelo **2×1 (Compre 1, Ganhe 1)** em restaurantes parceiros nas cidades de **Arapongas** e **Apucarana**, Estado do Paraná.
+O **Passe do Sabor** é um clube de benefícios gastronômicos por assinatura que oferece cupons no modelo **2×1 (Compre 1, Ganhe 1)** em restaurantes parceiros na cidade de **Arapongas**, Estado do Paraná.
 
 O acesso aos cupons requer uma **assinatura ativa** (mensal ou anual), adquirida exclusivamente pelo aplicativo por meio das plataformas Apple App Store ou Google Play Store.
 
