@@ -1,6 +1,6 @@
 # Passe do Sabor — Documentação Legal 
 
-Bem-vindo ao repositório oficial de documentos públicos do aplicativo **Passe do Sabor**, o seu clube de benefícios gastronômicos 2×1 para Arapongas e Apucarana – PR.
+Bem-vindo ao repositório oficial de documentos públicos do aplicativo **Passe do Sabor**, o seu clube de benefícios gastronômicos 2×1 para Arapongas – PR.
 
 Este repositório tem como objetivo fornecer transparência e fácil acesso aos nossos termos e políticas para todos os nossos usuários e parceiros.
 
