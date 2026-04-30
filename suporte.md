@@ -24,7 +24,7 @@ Respondemos em até **2 dias úteis**.
 
 #### Como funciona o Passe do Sabor?
 
-O Passe do Sabor é um clube de benefícios gastronômicos. Com uma assinatura ativa, você tem acesso a cupons **2×1** (Compre 1, Ganhe 1) nos restaurantes parceiros de Arapongas e Apucarana – PR.
+O Passe do Sabor é um clube de benefícios gastronômicos. Com uma assinatura ativa, você tem acesso a cupons **2×1** (Compre 1, Ganhe 1) nos restaurantes parceiros de Arapongas – PR.
 
 #### Como uso um cupom?
 
