@@ -36,9 +36,18 @@ Esta Política de Privacidade descreve como coletamos, utilizamos, armazenamos, 
 
 - Localização (GPS)
 - Contatos do telefone
-- Fotos ou arquivos do dispositivo
+- Fotos ou arquivos do dispositivo sem ação explícita do usuário
 - Dados de cartão de crédito (processados exclusivamente pela Apple/Google)
 - Dados biométricos
+
+### 2.4. Permissões do dispositivo
+
+O app pode solicitar permissões do dispositivo apenas para funcionalidades específicas:
+
+| Permissão | Finalidade | Coleta/Compartilhamento |
+|---|---|---|
+| Câmera (`android.permission.CAMERA`) | Leitura de QR Code para resgate/validação de cupons | Não gravamos vídeo contínuo. O acesso é usado no momento da leitura; não vendemos nem compartilhamos imagens da câmera para publicidade. |
+| Fotos/Galeria (quando o usuário seleciona imagem) | Seleção de imagem de perfil/restaurante por ação do usuário | Processada apenas para exibição da conta/cadastro; sem uso para publicidade de terceiros. |
 
 ---
 
@@ -134,9 +143,8 @@ Alguns dados podem ser processados por servidores do Google (Firebase) e da Reve
 
 Nos termos do Art. 41 da LGPD, informamos os dados do Encarregado pelo Tratamento de Dados Pessoais:
 
-**Nome:** Guilherme Cazelotto Barbosa | Caio Cesar de Oliveira
 **E-mail:** passedosabor@gmail.com
-**Telefone/WhatsApp:** (43) 8406-0555
+**Telefone/WhatsApp:** (43) 98406-0555
 
 O Encarregado é o responsável por aceitar reclamações e comunicações dos titulares de dados, prestar esclarecimentos à Autoridade Nacional de Proteção de Dados (ANPD) e orientar os colaboradores da Empresa sobre as práticas de proteção de dados pessoais.
 
